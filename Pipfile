@@ -8,6 +8,7 @@ selenium = "*"
 pytest = "*"
 pytest-bdd = "*"
 chromedriver = "*"
+rsa = "*"
 
 [dev-packages]
 
